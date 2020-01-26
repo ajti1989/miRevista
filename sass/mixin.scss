@@ -1,0 +1,33 @@
+//se le pasa un nombre de categoria y se aplican los estilos correspondientes 
+@mixin etiquetaCategoria($nombre){
+   
+    @if $nombre == "ciencia"{
+        background-color: $colorCiencia;
+    }
+    @if $nombre == "tecnologia"{
+        background-color: $colorTecnologia;
+    }
+    @if $nombre == "gaming"{
+        background-color: $colorGaming;
+    }
+    content: $nombre;
+    padding: 5px;
+    color: $blanco;
+}
+
+
+//redimensiona y cambia el color
+@mixin iconSocial($size, $color){
+    font-size: $size;
+    color: $color;
+    padding: 5px;
+}
+
+
+//mixin para transform con soporte para todos los navegadores
+@mixin transform($propiedad){
+    -moz-transform: $propiedad;
+    -webkit-transform: $propiedad;
+    -o-transform: $propiedad;
+    -ms-transform: $propiedad;
+}

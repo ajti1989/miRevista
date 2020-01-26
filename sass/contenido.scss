@@ -1,0 +1,117 @@
+body{
+    font-family: "LatoWeb";
+}
+
+// menu navegacion
+nav{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+// articulo slider destacado
+
+.articulo-seccion-principal{
+    position: relative;
+
+    .articulo-texto-principal{
+        position: absolute;
+        bottom: 0;
+        margin: 10px;
+        color: white;
+        padding: 5px;
+        background-color: $bgHeader;
+        opacity: 0.9;
+    
+    }
+}
+.opa{
+    opacity: 0.9;
+}
+
+// articulo
+.articulo{
+    margin-bottom: 20px;
+    article{
+        display: flex;
+        flex-direction: row;
+        box-shadow: 5px;
+
+        .container-imagen{
+            flex: 40%;
+            width: 100%;
+            position: relative;   
+        }
+
+        .container-texto{
+            flex: 60%;   
+            padding: 10px;
+        }
+    }
+
+    .footer-articulo{
+    
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: row;
+        justify-content: space-between;
+
+        .time-articulo{
+            color: $dark;
+        }
+
+        .tags{ 
+            flex:50%;
+            flex-wrap: nowrap;
+                a{
+                padding: 5px;
+                border-radius: 10px;
+                font-size: 0.8em;
+                margin: 1px;
+            }  
+        }
+    }
+}
+
+//etiqueta categoria articulo
+.nombre-cat{
+    position: absolute;
+    top: 0;
+    
+    .ciencia::after{
+        @include etiquetaCategoria("ciencia");
+    }
+
+    .tecnologia::after{
+        @include etiquetaCategoria("tecnologia");
+    }
+
+    .gaming::after{
+        @include etiquetaCategoria("gaming");
+    }
+}
+
+article{
+    position: relative;
+}
+// articulo destacado
+.articulo-destacado{
+    display: flex;
+    .container-imagen{
+        flex: 50%;
+    }
+
+    .container-texto{
+        flex: 50%;
+        padding: 5px;
+        .texto{
+            margin: auto;
+        }
+        .time-articulo{
+            font-size: 0.8em;
+        }
+    }
+}
+
+
+
+

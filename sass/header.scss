@@ -1,0 +1,20 @@
+header{
+    
+    background-color: $bgHeader;
+   .logo{
+       img{
+          margin-top: 10px;
+       }
+   }
+
+    h1{
+        color:$blanco;
+        text-align: center;
+     
+    }
+
+   .social{
+        @include iconSocial(1.5em,$colorCiencia);
+        text-align: right;    
+    }
+}

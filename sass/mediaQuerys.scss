@@ -1,0 +1,16 @@
+// articulo movil sm
+@media screen and (min-width: 0px) and (max-width: 720px){
+    .articulo{
+        article{
+            flex-direction: column;
+        }
+    }
+    .tags{
+        a{
+            display: block;
+            width: max-content;
+            float: right;
+        }
+        
+    }
+}
