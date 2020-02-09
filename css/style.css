@@ -1,165 +1,3 @@
-/* Webfont: Lato-Black */
-@font-face {
-  font-family: 'LatoWebBlack';
-  src: url("fonts/Lato-Black.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-Black.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Black.woff2") format("woff2"), url("fonts/Lato-Black.woff") format("woff"), url("fonts/Lato-Black.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-BlackItalic */
-@font-face {
-  font-family: 'LatoWebBlack';
-  src: url("fonts/Lato-BlackItalic.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-BlackItalic.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-BlackItalic.woff2") format("woff2"), url("fonts/Lato-BlackItalic.woff") format("woff"), url("fonts/Lato-BlackItalic.ttf") format("truetype");
-  font-style: italic;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-Bold */
-@font-face {
-  font-family: 'LatoWebBold';
-  src: url("fonts/Lato-Bold.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-Bold.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Bold.woff2") format("woff2"), url("fonts/Lato-Bold.woff") format("woff"), url("fonts/Lato-Bold.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-BoldItalic */
-@font-face {
-  font-family: 'LatoWebBold';
-  src: url("fonts/Lato-BoldItalic.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-BoldItalic.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-BoldItalic.woff2") format("woff2"), url("fonts/Lato-BoldItalic.woff") format("woff"), url("fonts/Lato-BoldItalic.ttf") format("truetype");
-  font-style: italic;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-Hairline */
-@font-face {
-  font-family: 'LatoWebHairline';
-  src: url("fonts/Lato-Hairline.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-Hairline.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Hairline.woff2") format("woff2"), url("fonts/Lato-Hairline.woff") format("woff"), url("fonts/Lato-Hairline.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-HairlineItalic */
-@font-face {
-  font-family: 'LatoWebHairline';
-  src: url("fonts/Lato-HairlineItalic.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-HairlineItalic.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-HairlineItalic.woff2") format("woff2"), url("fonts/Lato-HairlineItalic.woff") format("woff"), url("fonts/Lato-HairlineItalic.ttf") format("truetype");
-  font-style: italic;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-Heavy */
-@font-face {
-  font-family: 'LatoWebHeavy';
-  src: url("fonts/Lato-Heavy.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-Heavy.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Heavy.woff2") format("woff2"), url("fonts/Lato-Heavy.woff") format("woff"), url("fonts/Lato-Heavy.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-HeavyItalic */
-@font-face {
-  font-family: 'LatoWebHeavy';
-  src: url("fonts/Lato-HeavyItalic.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-HeavyItalic.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-HeavyItalic.woff2") format("woff2"), url("fonts/Lato-HeavyItalic.woff") format("woff"), url("fonts/Lato-HeavyItalic.ttf") format("truetype");
-  font-style: italic;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-Italic */
-@font-face {
-  font-family: 'LatoWeb';
-  src: url("fonts/Lato-Italic.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-Italic.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Italic.woff2") format("woff2"), url("fonts/Lato-Italic.woff") format("woff"), url("fonts/Lato-Italic.ttf") format("truetype");
-  font-style: italic;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-Light */
-@font-face {
-  font-family: 'LatoWebLight';
-  src: url("fonts/Lato-Light.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-Light.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Light.woff2") format("woff2"), url("fonts/Lato-Light.woff") format("woff"), url("fonts/Lato-Light.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-LightItalic */
-@font-face {
-  font-family: 'LatoWebLight';
-  src: url("fonts/Lato-LightItalic.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-LightItalic.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-LightItalic.woff2") format("woff2"), url("fonts/Lato-LightItalic.woff") format("woff"), url("fonts/Lato-LightItalic.ttf") format("truetype");
-  font-style: italic;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-Medium */
-@font-face {
-  font-family: 'LatoWebMedium';
-  src: url("fonts/Lato-Medium.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-Medium.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Medium.woff2") format("woff2"), url("fonts/Lato-Medium.woff") format("woff"), url("fonts/Lato-Medium.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-MediumItalic */
-@font-face {
-  font-family: 'LatoWebMedium';
-  src: url("fonts/Lato-MediumItalic.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-MediumItalic.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-MediumItalic.woff2") format("woff2"), url("fonts/Lato-MediumItalic.woff") format("woff"), url("fonts/Lato-MediumItalic.ttf") format("truetype");
-  font-style: italic;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-Regular */
-@font-face {
-  font-family: 'LatoWeb';
-  src: url("fonts/Lato-Regular.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Regular.woff2") format("woff2"), url("fonts/Lato-Regular.woff") format("woff"), url("fonts/Lato-Regular.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-Semibold */
-@font-face {
-  font-family: 'LatoWebSemibold';
-  src: url("fonts/Lato-Semibold.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-Semibold.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Semibold.woff2") format("woff2"), url("fonts/Lato-Semibold.woff") format("woff"), url("fonts/Lato-Semibold.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-SemiboldItalic */
-@font-face {
-  font-family: 'LatoWebSemibold';
-  src: url("fonts/Lato-SemiboldItalic.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-SemiboldItalic.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-SemiboldItalic.woff2") format("woff2"), url("fonts/Lato-SemiboldItalic.woff") format("woff"), url("fonts/Lato-SemiboldItalic.ttf") format("truetype");
-  font-style: italic;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-Thin */
-@font-face {
-  font-family: 'LatoWebThin';
-  src: url("fonts/Lato-Thin.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-Thin.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Thin.woff2") format("woff2"), url("fonts/Lato-Thin.woff") format("woff"), url("fonts/Lato-Thin.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
-/* Webfont: Lato-ThinItalic */
-@font-face {
-  font-family: 'LatoWebThin';
-  src: url("fonts/Lato-ThinItalic.eot");
-  /* IE9 Compat Modes */
-  src: url("fonts/Lato-ThinItalic.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-ThinItalic.woff2") format("woff2"), url("fonts/Lato-ThinItalic.woff") format("woff"), url("fonts/Lato-ThinItalic.ttf") format("truetype");
-  font-style: italic;
-  font-weight: normal;
-  text-rendering: optimizeLegibility; }
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
@@ -187,7 +25,7 @@
   --warning: #ffc107;
   --danger: #dc3545;
   --light: #f8f9fa;
-  --dark: #343a40;
+  --dark: #556270;
   --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
@@ -1403,18 +1241,18 @@ main {
 .table-dark,
 .table-dark > th,
 .table-dark > td {
-  background-color: #c6c8ca; }
+  background-color: #cfd3d7; }
 .table-dark th,
 .table-dark td,
 .table-dark thead th,
 .table-dark tbody + tbody {
-  border-color: #95999c; }
+  border-color: #a7adb5; }
 
 .table-hover .table-dark:hover {
-  background-color: #b9bbbe; }
+  background-color: #c1c6cb; }
   .table-hover .table-dark:hover > td,
   .table-hover .table-dark:hover > th {
-    background-color: #b9bbbe; }
+    background-color: #c1c6cb; }
 
 .table-active,
 .table-active > th,
@@ -2383,27 +2221,27 @@ main {
 
 .btn-dark {
   color: #fff;
-  background-color: #343a40;
-  border-color: #343a40; }
+  background-color: #556270;
+  border-color: #556270; }
   .btn-dark:hover {
     color: #fff;
-    background-color: #23272b;
-    border-color: #1d2124; }
+    background-color: #444f5a;
+    border-color: #3f4953; }
   .btn-dark:focus, .btn-dark.focus {
     color: #fff;
-    background-color: #23272b;
-    border-color: #1d2124;
-    box-shadow: 0 0 0 0.2rem rgba(82, 88, 93, 0.5); }
+    background-color: #444f5a;
+    border-color: #3f4953;
+    box-shadow: 0 0 0 0.2rem rgba(111, 122, 133, 0.5); }
   .btn-dark:active, .btn-dark.active, .show > .btn-dark.dropdown-toggle {
     color: #fff;
-    background-color: #1d2124;
-    border-color: #171a1d; }
+    background-color: #3f4953;
+    border-color: #39424c; }
     .btn-dark:active:focus, .btn-dark.active:focus, .show > .btn-dark.dropdown-toggle:focus {
-      box-shadow: 0 0 0 0.2rem rgba(82, 88, 93, 0.5); }
+      box-shadow: 0 0 0 0.2rem rgba(111, 122, 133, 0.5); }
   .btn-dark:disabled, .btn-dark.disabled {
     color: #fff;
-    background-color: #343a40;
-    border-color: #343a40; }
+    background-color: #556270;
+    border-color: #556270; }
 
 .btn-outline-primary {
   color: #0d6efd;
@@ -2539,22 +2377,22 @@ main {
     background-color: transparent; }
 
 .btn-outline-dark {
-  color: #343a40;
-  border-color: #343a40; }
+  color: #556270;
+  border-color: #556270; }
   .btn-outline-dark:hover {
     color: #fff;
-    background-color: #343a40;
-    border-color: #343a40; }
+    background-color: #556270;
+    border-color: #556270; }
   .btn-outline-dark:focus, .btn-outline-dark.focus {
-    box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5); }
+    box-shadow: 0 0 0 0.2rem rgba(85, 98, 112, 0.5); }
   .btn-outline-dark:active, .btn-outline-dark.active, .show > .btn-outline-dark.dropdown-toggle {
     color: #fff;
-    background-color: #343a40;
-    border-color: #343a40; }
+    background-color: #556270;
+    border-color: #556270; }
     .btn-outline-dark:active:focus, .btn-outline-dark.active:focus, .show > .btn-outline-dark.dropdown-toggle:focus {
-      box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5); }
+      box-shadow: 0 0 0 0.2rem rgba(85, 98, 112, 0.5); }
   .btn-outline-dark:disabled, .btn-outline-dark.disabled {
-    color: #343a40;
+    color: #556270;
     background-color: transparent; }
 
 .btn-link {
@@ -3504,11 +3342,11 @@ main {
     color: #686868; }
 
 .alert-dark {
-  color: #1b1e21;
-  background-color: #d6d8d9;
-  border-color: #c6c8ca; }
+  color: #2c333a;
+  background-color: #dde0e2;
+  border-color: #cfd3d7; }
   .alert-dark .alert-link {
-    color: #040505; }
+    color: #161a1d; }
 
 @keyframes progress-bar-stripes {
   0% {
@@ -3764,15 +3602,15 @@ main {
     border-color: #818182; }
 
 .list-group-item-dark {
-  color: #1b1e21;
-  background-color: #c6c8ca; }
+  color: #2c333a;
+  background-color: #cfd3d7; }
   .list-group-item-dark.list-group-item-action:hover, .list-group-item-dark.list-group-item-action:focus {
-    color: #1b1e21;
-    background-color: #b9bbbe; }
+    color: #2c333a;
+    background-color: #c1c6cb; }
   .list-group-item-dark.list-group-item-action.active {
     color: #fff;
-    background-color: #1b1e21;
-    border-color: #1b1e21; }
+    background-color: #2c333a;
+    border-color: #2c333a; }
 
 .close {
   font-size: calc(1.275rem + 0.3vw);
@@ -4412,9 +4250,9 @@ button.close {
     color: #cbd3da; }
 
 .link-dark {
-  color: #343a40; }
+  color: #556270; }
   .link-dark:hover, .link-dark:focus {
-    color: #121416; }
+    color: #343c45; }
 
 .embed-responsive {
   position: relative;
@@ -4651,7 +4489,7 @@ button.close {
   border-color: #f8f9fa !important; }
 
 .border-dark {
-  border-color: #343a40 !important; }
+  border-color: #556270 !important; }
 
 .border-white {
   border-color: #fff !important; }
@@ -5299,7 +5137,7 @@ button.close {
   color: #f8f9fa !important; }
 
 .text-dark {
-  color: #343a40 !important; }
+  color: #556270 !important; }
 
 .text-white {
   color: #fff !important; }
@@ -5353,7 +5191,7 @@ button.close {
   background-color: #f8f9fa !important; }
 
 .bg-dark {
-  background-color: #343a40 !important; }
+  background-color: #556270 !important; }
 
 .bg-body {
   background-color: #fff !important; }
@@ -7799,6 +7637,196 @@ button.close {
 
   .d-print-inline-flex {
     display: inline-flex !important; } }
+/* Webfont: Lato-Black */
+@font-face {
+  font-family: 'LatoWebBlack';
+  src: url("../fonts/Lato-Black.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff"), url("../fonts/Lato-Black.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-BlackItalic */
+@font-face {
+  font-family: 'LatoWebBlack';
+  src: url("../fonts/Lato-BlackItalic.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-BlackItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-BlackItalic.woff2") format("woff2"), url("../fonts/Lato-BlackItalic.woff") format("woff"), url("../fonts/Lato-BlackItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-Bold */
+@font-face {
+  font-family: 'LatoWebBold';
+  src: url("../fonts/Lato-Bold.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Bold.woff") format("woff"), url("../fonts/Lato-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-BoldItalic */
+@font-face {
+  font-family: 'LatoWebBold';
+  src: url("../fonts/Lato-BoldItalic.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-BoldItalic.woff2") format("woff2"), url("../fonts/Lato-BoldItalic.woff") format("woff"), url("../fonts/Lato-BoldItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-Hairline */
+@font-face {
+  font-family: 'LatoWebHairline';
+  src: url("../fonts/Lato-Hairline.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-Hairline.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Hairline.woff2") format("woff2"), url("../fonts/Lato-Hairline.woff") format("woff"), url("../fonts/Lato-Hairline.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-HairlineItalic */
+@font-face {
+  font-family: 'LatoWebHairline';
+  src: url("../fonts/Lato-HairlineItalic.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-HairlineItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-HairlineItalic.woff2") format("woff2"), url("../fonts/Lato-HairlineItalic.woff") format("woff"), url("../fonts/Lato-HairlineItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-Heavy */
+@font-face {
+  font-family: 'LatoWebHeavy';
+  src: url("../fonts/Lato-Heavy.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-Heavy.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Heavy.woff2") format("woff2"), url("../fonts/Lato-Heavy.woff") format("woff"), url("../fonts/Lato-Heavy.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-HeavyItalic */
+@font-face {
+  font-family: 'LatoWebHeavy';
+  src: url("../fonts/Lato-HeavyItalic.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-HeavyItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-HeavyItalic.woff2") format("woff2"), url("../fonts/Lato-HeavyItalic.woff") format("woff"), url("../fonts/Lato-HeavyItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-Italic */
+@font-face {
+  font-family: 'LatoWeb';
+  src: url("../fonts/Lato-Italic.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Italic.woff2") format("woff2"), url("../fonts/Lato-Italic.woff") format("woff"), url("../fonts/Lato-Italic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-Light */
+@font-face {
+  font-family: 'LatoWebLight';
+  src: url("../fonts/Lato-Light.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Light.woff2") format("woff2"), url("../fonts/Lato-Light.woff") format("woff"), url("../fonts/Lato-Light.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-LightItalic */
+@font-face {
+  font-family: 'LatoWebLight';
+  src: url("../fonts/Lato-LightItalic.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-LightItalic.woff2") format("woff2"), url("../fonts/Lato-LightItalic.woff") format("woff"), url("../fonts/Lato-LightItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-Medium */
+@font-face {
+  font-family: 'LatoWebMedium';
+  src: url("../fonts/Lato-Medium.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Medium.woff2") format("woff2"), url("../fonts/Lato-Medium.woff") format("woff"), url("../fonts/Lato-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-MediumItalic */
+@font-face {
+  font-family: 'LatoWebMedium';
+  src: url("../fonts/Lato-MediumItalic.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-MediumItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-MediumItalic.woff2") format("woff2"), url("../fonts/Lato-MediumItalic.woff") format("woff"), url("../fonts/Lato-MediumItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-Regular */
+@font-face {
+  font-family: 'LatoWeb';
+  src: url("../fonts/Lato-Regular.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff"), url("../fonts/Lato-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-Semibold */
+@font-face {
+  font-family: 'LatoWebSemibold';
+  src: url("../fonts/Lato-Semibold.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-Semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Semibold.woff2") format("woff2"), url("../fonts/Lato-Semibold.woff") format("woff"), url("../fonts/Lato-Semibold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-SemiboldItalic */
+@font-face {
+  font-family: 'LatoWebSemibold';
+  src: url("../fonts/Lato-SemiboldItalic.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-SemiboldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-SemiboldItalic.woff2") format("woff2"), url("../fonts/Lato-SemiboldItalic.woff") format("woff"), url("../fonts/Lato-SemiboldItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-Thin */
+@font-face {
+  font-family: 'LatoWebThin';
+  src: url("../fonts/Lato-Thin.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-Thin.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Thin.woff2") format("woff2"), url("../fonts/Lato-Thin.woff") format("woff"), url("../fonts/Lato-Thin.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+/* Webfont: Lato-ThinItalic */
+@font-face {
+  font-family: 'LatoWebThin';
+  src: url("../fonts/Lato-ThinItalic.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/Lato-ThinItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-ThinItalic.woff2") format("woff2"), url("../fonts/Lato-ThinItalic.woff") format("woff"), url("../fonts/Lato-ThinItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: normal;
+  text-rendering: optimizeLegibility; }
+footer a {
+  text-decoration: none;
+  color: white; }
+footer .social {
+  text-align: right; }
+footer .copy {
+  color: #fff; }
+
+header {
+  background-color: #556270; }
+  header a {
+    text-decoration: none;
+    color: white; }
+  header .logo img {
+    margin-top: 10px; }
+  header h1, header .h1 {
+    color: #FFFFFF;
+    text-align: center; }
+  header .social {
+    font-size: 1.5em;
+    color: #C7F464;
+    padding: 5px;
+    text-align: right; }
+    header .social a {
+      color: #C7F464; }
+    header .social a:hover {
+      color: white; }
+
 body {
   font-family: "LatoWeb"; }
 
@@ -7822,6 +7850,9 @@ nav {
 
 .articulo {
   margin-bottom: 20px; }
+  .articulo a {
+    text-decoration: none;
+    color: black; }
   .articulo article {
     display: flex;
     flex-direction: row;
@@ -7873,6 +7904,9 @@ article {
 
 .articulo-destacado {
   display: flex; }
+  .articulo-destacado a {
+    text-decoration: none;
+    color: black; }
   .articulo-destacado .container-imagen {
     flex: 50%; }
   .articulo-destacado .container-texto {
@@ -7883,68 +7917,6 @@ article {
     .articulo-destacado .container-texto .time-articulo {
       font-size: 0.8em; }
 
-#chartdivCat {
-  width: 100%;
-  height: 500px; }
-
-#chartdivVisit {
-  width: 100%;
-  height: 500px; }
-
-#chartdivMap {
-  width: 100%;
-  height: 500px; }
-
-#chartdivSocial {
-  width: 100%;
-  height: 500px; }
-
-.wrapper {
-  display: flex;
-  width: 100%;
-  align-items: stretch; }
-
-textarea#mentions {
-  height: 350px; }
-
-div.card,
-.tox div.card {
-  width: 240px;
-  background: white;
-  border: 1px solid #ccc;
-  border-radius: 3px;
-  box-shadow: 0 4px 8px 0 rgba(34, 47, 62, 0.1);
-  padding: 8px;
-  font-size: 14px;
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; }
-
-div.card::after,
-.tox div.card::after {
-  content: "";
-  clear: both;
-  display: table; }
-
-div.card h1, div.card .h1,
-.tox div.card h1,
-.tox div.card .h1 {
-  font-size: 14px;
-  font-weight: bold;
-  margin: 0 0 8px;
-  padding: 0;
-  line-height: normal;
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; }
-
-div.card p,
-.tox div.card p {
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; }
-
-div.card img.avatar,
-.tox div.card img.avatar {
-  width: 48px;
-  height: 48px;
-  margin-right: 8px;
-  float: left; }
-
 @media screen and (min-width: 0px) and (max-width: 720px) {
   .articulo article {
     flex-direction: column; }
@@ -7953,24 +7925,6 @@ div.card img.avatar,
     display: block;
     width: max-content;
     float: right; } }
-footer .social {
-  text-align: right; }
-footer .copy {
-  color: #fff; }
-
-header {
-  background-color: #556270; }
-  header .logo img {
-    margin-top: 10px; }
-  header h1, header .h1 {
-    color: #FFFFFF;
-    text-align: center; }
-  header .social {
-    font-size: 1.5em;
-    color: #C7F464;
-    padding: 5px;
-    text-align: right; }
-
 .tags a {
   background-color: #C44D58;
   color: #FFFFFF; }

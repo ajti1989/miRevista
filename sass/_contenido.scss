@@ -1,5 +1,6 @@
 body{
     font-family: "LatoWeb";
+   
 }
 
 // menu navegacion
@@ -12,6 +13,7 @@ nav{
 
 .articulo-seccion-principal{
     position: relative;
+
 
     .articulo-texto-principal{
         position: absolute;
@@ -30,6 +32,10 @@ nav{
 
 // articulo
 .articulo{
+    a{
+        text-decoration: none;
+        color: black;
+    }
     margin-bottom: 20px;
     article{
         display: flex;
@@ -78,15 +84,15 @@ nav{
     top: 0;
     
     .ciencia::after{
-        @include etiquetaCategoria("ciencia");
+        @include etiquetaCategoria("ciencia",$colorCiencia);
     }
 
     .tecnologia::after{
-        @include etiquetaCategoria("tecnologia");
+        @include etiquetaCategoria("tecnologia",$colorTecnologia);
     }
 
     .gaming::after{
-        @include etiquetaCategoria("gaming");
+        @include etiquetaCategoria("gaming",$colorGaming);
     }
 }
 
@@ -94,7 +100,12 @@ article{
     position: relative;
 }
 // articulo destacado
+
 .articulo-destacado{
+    a{
+        text-decoration: none;
+        color: black;
+    }
     display: flex;
     .container-imagen{
         flex: 50%;

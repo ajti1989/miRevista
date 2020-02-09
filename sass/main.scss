@@ -1,12 +1,10 @@
-
-@import "../fonts/latofonts";
+@import "variables";
 @import "mixin";
 @import "bootstrap/bootstrap";
-@import "variables";
-@import "contenido";
-@import "utilities";
-@import "mediaQuerys";
+@import "latofonts";
 @import "footer";
 @import "header";
+@import "contenido";
+@import "mediaQuerys";
 @import "tags";
 

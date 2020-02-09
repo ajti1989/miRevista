@@ -1,15 +1,7 @@
 //se le pasa un nombre de categoria y se aplican los estilos correspondientes 
-@mixin etiquetaCategoria($nombre){
+@mixin etiquetaCategoria($nombre,$color){
    
-    @if $nombre == "ciencia"{
-        background-color: $colorCiencia;
-    }
-    @if $nombre == "tecnologia"{
-        background-color: $colorTecnologia;
-    }
-    @if $nombre == "gaming"{
-        background-color: $colorGaming;
-    }
+    background-color: $color;
     content: $nombre;
     padding: 5px;
     color: $blanco;

@@ -1,5 +1,8 @@
 header{
-    
+    a{
+        text-decoration: none;
+        color: white;
+    }
     background-color: $bgHeader;
    .logo{
        img{
@@ -16,5 +19,11 @@ header{
    .social{
         @include iconSocial(1.5em,$colorCiencia);
         text-align: right;    
+        a{
+            color: $verde;
+        }
+        a:hover{
+            color: white;
+        }
     }
 }
